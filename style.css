@@ -1,3 +1,4 @@
+/****** start menu *****/
 * {
     box-sizing: border-box;
 }
@@ -114,187 +115,26 @@ header nav ul li a {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/****** header *****/
-header {
-
-    background-color: #EA5045;
-    width: 100%;
-    height: 15%;
-}
-
-.nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-
-
-.col_right {
-    display: flex;
-    flex-direction: row;
-    padding: 30px;
-}
-
-/****** slut header *****/
-
-
-
+/****** slut menu *****/
 
 
 /****** start afleveringer *****/
-
-* {
-    box-sizing: border-box;
-}
-
-html {
-    font-size: 62.5%;
-}
-
-body {
-    margin: 0 auto;
-}
-
 section {
-    margin: 2vh;
+    margin: 1rem;
+    padding: 2.5rem;
+    margin-top: 3rem;
 }
 
 h1 {
     color: black;
     font-weight: bold;
-    font-size: 1rem;
+    font-size: 1.2rem;
 
-}
-
-p {
-    font-size: 0.5rem;
 }
 
 h2 {
     color: #EA5045;
-    font-size: 0.7rem;
+    font-size: 1rem;
 
 }
 
